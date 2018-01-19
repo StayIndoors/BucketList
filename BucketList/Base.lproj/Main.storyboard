@@ -39,9 +39,6 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
-                    <connections>
-                        <segue destination="tde-Px-pVl" kind="presentation" identifier="EditItemSegue" id="4xh-Oo-ihu"/>
-                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="y5E-eU-fRg" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -145,7 +142,4 @@
             <point key="canvasLocation" x="1852.8" y="87.256371814092958"/>
         </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="4xh-Oo-ihu"/>
-    </inferredMetricsTieBreakers>
 </document>
